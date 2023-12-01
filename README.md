@@ -1,12 +1,11 @@
-This is a [Next.js] app. For UI development I used ChakraUI.
-
-## Description 
+## APP Description 
 Sorting Visualizer App where you can Visualize two sorting Algorithms running side by side on the same Screen.
+And have real time experience how to sorting works.
 
-## Deployed on Vercel
-click Here -> [https://s-visualizer-i-am-ayushmaan.vercel.app/]
+##  Tech Used
+This is a [Next.js] app. ChakraUI used for UI Development 
 
-## Getting Started
+## How to Run on Your System
 First, run the development server:
 ```bash
 npm run dev
@@ -17,4 +16,3 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
